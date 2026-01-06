@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Expensy - Reconciliador de Despesas",
+  "description": "Um gerenciador de despesas de cartão de crédito inteligente que extrai dados de faturas e ajuda a reconciliar comprovantes de pagamento.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
